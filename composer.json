@@ -1,0 +1,11 @@
+{
+  "name": "polozpavlo/allure",
+  "description": "Allure commmandline",
+  "authors": [
+    {
+      "name": "Ivan Krutov",
+      "email": "vania-pooh@yandex-team.ru",
+      "role": "Developer"
+    }
+  ]
+}
